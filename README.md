@@ -5,3 +5,4 @@ just learning django 1.9
 
 hahahahahahah
 satriani 05 ngedit file
+zzzzzzzzzzzz
